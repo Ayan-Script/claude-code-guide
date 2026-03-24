@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Ayan_Script/claude-code-guide/main/assets/banner.png" />
+<p align="center">
+  <img src="assets/banner.png.png" width="100%" />
+</p>
 
 # 🤖 Claude Code Guide
 
